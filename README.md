@@ -1,5 +1,5 @@
 <p align="center">
-  <img src=".github/banner.png" alt="Nookblok — Building the Nervous System for Decentralized Intelligence
+  <img src="nookblok-logo.png" alt="Nookblok — Building the Nervous System for Decentralized Intelligence
 
 
 
