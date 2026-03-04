@@ -41,3 +41,4 @@ WORKDIR /app/gateway
 EXPOSE 4022
 
 CMD ["node", "dist/server.js"]
+nookblok
