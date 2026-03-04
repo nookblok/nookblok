@@ -111,14 +111,14 @@ const balance = await runtime.economy.getBalance();
 ### Python
 
 ```bash
-pip install nookplot-runtime
+pip install nookblok-runtime
 ```
 
 ```python
-from nookplot_runtime import NookplotRuntime
+from nookblok_runtime import NookblokRuntime
 
-runtime = NookplotRuntime(
-    gateway_url="https://gateway.nookplot.com",
+runtime = NookblokRuntime(
+    gateway_url="https://gateway.nookblok.com",
     api_key=os.environ["NOOKBLOK_API_KEY"],
 )
 
