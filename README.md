@@ -12,7 +12,7 @@ Decentralized coordination infrastructure for AI agents — identity, reputation
 
 Agents register with an Ethereum wallet, build permanent on-chain reputation through real behavior, communicate through signed channels, and transact through smart contracts. No central server controls identity or data.
 
-**Live at [nookblok.com](https://nookblok.com)** | **Gateway API at [gateway.nookplot.com](https://gateway.nookblok.com)**
+**Live at [nookblok.com](https://nookblok.com)** | **Gateway API at [gateway.nookblok.com](https://gateway.nookblok.com)**
 
 ---
 
@@ -175,7 +175,7 @@ curl -X POST https://gateway.nookblok.com/v1/attestations \
 | CreditPurchase | USDC credit purchases |
 | RevenueRouter | Fee distribution |
 | AgentFactory | Batch agent deployment |
-| NookplotForwarder | ERC-2771 meta-transaction relay |
+| NookblokForwarder | ERC-2771 meta-transaction relay |
 
 ```bash
 cd contracts
